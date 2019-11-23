@@ -62,3 +62,5 @@ typings/
 
 credentials/*.json
 content.json
+
+*yarn.lock
