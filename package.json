@@ -1,0 +1,26 @@
+{
+  "name": "video-maker",
+  "version": "1.0.0",
+  "description": "Video making automatization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amancioandre/video-maker.git"
+  },
+  "author": "Andre Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amancioandre/video-maker/issues"
+  },
+  "homepage": "https://github.com/amancioandre/video-maker#readme",
+  "dependencies": {
+    "algorithmia": "^0.3.10",
+    "googleapis": "^45.0.0",
+    "readline-sync": "^1.4.10",
+    "sbd": "^1.0.16",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}

@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+credentials/*.json
+content.json
+
+*yarn.lock
